@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Robbeerr.github.io</id>
+    <title>Ber博主</title>
+    <updated>2023-01-02T11:33:40.789Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Robbeerr.github.io"/>
+    <link rel="self" href="https://Robbeerr.github.io/atom.xml"/>
+    <subtitle>Ber</subtitle>
+    <logo>https://Robbeerr.github.io/images/avatar.png</logo>
+    <icon>https://Robbeerr.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Ber博主</rights>
+    <entry>
+        <title type="html"><![CDATA[ewewe]]></title>
+        <id>https://Robbeerr.github.io/post/ewewe/</id>
+        <link href="https://Robbeerr.github.io/post/ewewe/">
+        </link>
+        <updated>2023-01-02T10:09:29.000Z</updated>
+        <content type="html"><![CDATA[<p>wewew</p>
+]]></content>
+    </entry>
+</feed>
